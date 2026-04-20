@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,drupal,mysql,linux,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=php,drupal,mysql,linux,js,html,css,python,django,wordpress,docker,bootstrap" />
 </p>
 
 ---
